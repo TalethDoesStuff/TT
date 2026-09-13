@@ -1,0 +1,1 @@
+give @p bat_spawn_egg[entity_data={id:"minecraft:mannequin",Tags:["TestDummy"],CustomName:"Testing Dummy",profile:"SocksKnowsYou",hidden_layers:["cape","jacket","left_sleeve","right_sleeve","left_pants_leg","right_pants_leg","hat"]},item_model="minecraft:allium",item_name="Test Dummy Spawn Egg",rarity="epic"] 1
